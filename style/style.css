@@ -29,6 +29,7 @@ img.welcome {
 
 .box {
   background: white;
+  opacity: 0.5;
   color: #404041;
   padding: 3em;
   border-radius: 5px;
